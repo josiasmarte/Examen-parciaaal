@@ -1,0 +1,15 @@
+C:\Users\josia\OneDrive\Desktop\Clase\3er Cuatrimestre\Programación de aplicaciones\Primera actividad, 20 ejercicios\Examen parcial\Examen parcial\bin\Debug\net8.0\Examen parcial.exe
+C:\Users\josia\OneDrive\Desktop\Clase\3er Cuatrimestre\Programación de aplicaciones\Primera actividad, 20 ejercicios\Examen parcial\Examen parcial\bin\Debug\net8.0\Examen parcial.deps.json
+C:\Users\josia\OneDrive\Desktop\Clase\3er Cuatrimestre\Programación de aplicaciones\Primera actividad, 20 ejercicios\Examen parcial\Examen parcial\bin\Debug\net8.0\Examen parcial.runtimeconfig.json
+C:\Users\josia\OneDrive\Desktop\Clase\3er Cuatrimestre\Programación de aplicaciones\Primera actividad, 20 ejercicios\Examen parcial\Examen parcial\bin\Debug\net8.0\Examen parcial.dll
+C:\Users\josia\OneDrive\Desktop\Clase\3er Cuatrimestre\Programación de aplicaciones\Primera actividad, 20 ejercicios\Examen parcial\Examen parcial\bin\Debug\net8.0\Examen parcial.pdb
+C:\Users\josia\OneDrive\Desktop\Clase\3er Cuatrimestre\Programación de aplicaciones\Primera actividad, 20 ejercicios\Examen parcial\Examen parcial\obj\Debug\net8.0\Examen parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josia\OneDrive\Desktop\Clase\3er Cuatrimestre\Programación de aplicaciones\Primera actividad, 20 ejercicios\Examen parcial\Examen parcial\obj\Debug\net8.0\Examen parcial.AssemblyInfoInputs.cache
+C:\Users\josia\OneDrive\Desktop\Clase\3er Cuatrimestre\Programación de aplicaciones\Primera actividad, 20 ejercicios\Examen parcial\Examen parcial\obj\Debug\net8.0\Examen parcial.AssemblyInfo.cs
+C:\Users\josia\OneDrive\Desktop\Clase\3er Cuatrimestre\Programación de aplicaciones\Primera actividad, 20 ejercicios\Examen parcial\Examen parcial\obj\Debug\net8.0\Examen parcial.csproj.CoreCompileInputs.cache
+C:\Users\josia\OneDrive\Desktop\Clase\3er Cuatrimestre\Programación de aplicaciones\Primera actividad, 20 ejercicios\Examen parcial\Examen parcial\obj\Debug\net8.0\Examen parcial.sourcelink.json
+C:\Users\josia\OneDrive\Desktop\Clase\3er Cuatrimestre\Programación de aplicaciones\Primera actividad, 20 ejercicios\Examen parcial\Examen parcial\obj\Debug\net8.0\Examen parcial.dll
+C:\Users\josia\OneDrive\Desktop\Clase\3er Cuatrimestre\Programación de aplicaciones\Primera actividad, 20 ejercicios\Examen parcial\Examen parcial\obj\Debug\net8.0\refint\Examen parcial.dll
+C:\Users\josia\OneDrive\Desktop\Clase\3er Cuatrimestre\Programación de aplicaciones\Primera actividad, 20 ejercicios\Examen parcial\Examen parcial\obj\Debug\net8.0\Examen parcial.pdb
+C:\Users\josia\OneDrive\Desktop\Clase\3er Cuatrimestre\Programación de aplicaciones\Primera actividad, 20 ejercicios\Examen parcial\Examen parcial\obj\Debug\net8.0\Examen parcial.genruntimeconfig.cache
+C:\Users\josia\OneDrive\Desktop\Clase\3er Cuatrimestre\Programación de aplicaciones\Primera actividad, 20 ejercicios\Examen parcial\Examen parcial\obj\Debug\net8.0\ref\Examen parcial.dll
